@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "ants"
+		},
+		{
+			"path": "air"
+		},
+		{
+			"path": "bubbletea"
+		},
+		{
+			"path": "buntdb"
+		},
+		{
+			"path": "tunny"
+		},
+		{
+			"path": "bytebufferpool"
+		},
+		{
+			"path": "cron"
+		},
+		{
+			"path": "xorm"
+		}
+	],
+	"settings": {}
+}
