@@ -23,6 +23,15 @@
 		},
 		{
 			"path": "xorm"
+		},
+		{
+			"path": "gorm"
+		},
+		{
+			"path": "jsonrpc"
+		},
+		{
+			"path": "standlib"
 		}
 	],
 	"settings": {}
